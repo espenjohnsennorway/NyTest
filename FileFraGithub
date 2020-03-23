@@ -3,3 +3,5 @@ a <-1:10
 b <- a^2
 plot(a,b)
 plot(b,a)
+Dette er enda en test 
+Dette er enda en ny test

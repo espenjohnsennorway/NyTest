@@ -1,2 +1,5 @@
 # This is still a test
 a <-1:10
+b <- a^2
+plot(a,b)
+plot(b,a)
